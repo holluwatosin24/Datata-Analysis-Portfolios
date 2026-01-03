@@ -4,6 +4,7 @@ Hello, my name is Holluwatosin i'm a data analysis by proffession
 
 ## Skills
 Data Analysis - Power Bi, Excel.
+{Image} (oil Rig.jpeg)
 
 ## Project
 Hospital Admission Analysis
